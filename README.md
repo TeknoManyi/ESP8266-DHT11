@@ -24,3 +24,8 @@ Bu projede ESP8266 (NodeMCU) kullanarak bir Wi-Fi ağ noktası oluşturdum. DHT1
     DHT sensor library (Adafruit)
 
     Adafruit Unified Sensor
+
+<img width="568" height="302" alt="resim" src="https://github.com/user-attachments/assets/c52d8153-7771-41b0-9d66-98a05833c039" />
+
+![ESP8266-DHT11](https://github.com/user-attachments/assets/9c53f6c9-5f24-4db5-8720-4e70d4bccb79)
+
